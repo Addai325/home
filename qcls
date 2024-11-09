@@ -1,0 +1,54 @@
+*   [33mcommit eb30dd05f944db3e44f437a960ba37c44b50c8ca[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+[31m|[m[32m\[m  Merge: f8d8fb4 bf1e658
+[31m|[m [32m|[m Author: Ransford <ransfordaddai111@gmail.com>
+[31m|[m [32m|[m Date:   Sat Nov 9 13:54:18 2024 -0800
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     started commit
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit bf1e6587a06e56d791cec72a8b22a84652d2f4e7[m[33m ([m[1;31morigin/oscar[m[33m, [m[1;32moscar[m[33m)[m
+[31m|[m [32m|[m Author: Ransford <ransfordaddai111@gmail.com>
+[31m|[m [32m|[m Date:   Sat Nov 9 13:46:05 2024 -0800
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     branched commit
+[31m|[m [32m|[m 
+* [32m|[m [33mcommit f8d8fb4929742ae64304a5f60fe10277e9d16914[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+[32m|[m[32m/[m  Author: Ransford <ransfordaddai111@gmail.com>
+[32m|[m   Date:   Sat Nov 9 13:51:07 2024 -0800
+[32m|[m   
+[32m|[m       start branch
+[32m|[m 
+* [33mcommit 8dfee0534a3d5133f0ecb6ff7e338770729dd748[m
+[32m|[m Author: Ransford <ransfordaddai111@gmail.com>
+[32m|[m Date:   Sat Nov 9 13:40:47 2024 -0800
+[32m|[m 
+[32m|[m     sixth commit
+[32m|[m 
+* [33mcommit adc170364b2526a66b305bdf9928dc52d51abbce[m
+[32m|[m Author: Ransford <ransfordaddai111@gmail.com>
+[32m|[m Date:   Sat Nov 9 13:29:08 2024 -0800
+[32m|[m 
+[32m|[m     fifth commit
+[32m|[m 
+* [33mcommit b387438f8f00fdc25181e741e3de68b1f2c9a7f4[m
+[32m|[m Author: Ransford <ransfordaddai111@gmail.com>
+[32m|[m Date:   Sat Nov 9 13:04:21 2024 -0800
+[32m|[m 
+[32m|[m     fourth commit
+[32m|[m 
+* [33mcommit e121ade0f76f48ae28778ac84db40a705b0cdf5f[m
+[32m|[m Author: Ransford <ransfordaddai111@gmail.com>
+[32m|[m Date:   Sat Nov 9 12:55:30 2024 -0800
+[32m|[m 
+[32m|[m     third commit
+[32m|[m 
+* [33mcommit 9453ce7f5b1376d0c8557ab4d308c7c71ed38616[m
+[32m|[m Author: Ransford <ransfordaddai111@gmail.com>
+[32m|[m Date:   Sat Nov 9 12:54:40 2024 -0800
+[32m|[m 
+[32m|[m     second commit
+[32m|[m 
+* [33mcommit 1bd8b47ae31839f99ac574a604eb84ba5c0ff52c[m
+  Author: Ransford <ransfordaddai111@gmail.com>
+  Date:   Sat Nov 9 12:53:42 2024 -0800
+  
+      first commit
